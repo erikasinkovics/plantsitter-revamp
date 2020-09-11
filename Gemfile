@@ -3,6 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
+# Dotenv
+gem 'dotenv-rails', groups: [:development, :test]
+# Simple form
+gem 'simple_form'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
 # Use postgresql as the database for Active Record
