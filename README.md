@@ -4,7 +4,7 @@ This is an overhaul of the **PlantSitter** rails prototype built with my project
 ------- 
 
 ## Objectives
-Being a 4.5 day project, our main focus was building the MVP, namely enabling _customers_ to _book plantsitters_ for the date of their choice and manage (accept/reject) their bookings.
+Being a 4.5 day project, our main focus was building the MVP, namely enabling _customers_ to _book plantsitters_ for the date of their choice and manage (accept/reject) their bookings. As a result of that, there is still some potential in implementing some additional features.
 
 ### Improvements
 * Improve the quality of the code, create a cleaner codebase with comments if needed
