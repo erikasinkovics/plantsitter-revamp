@@ -20,4 +20,4 @@ There are a couple of additional features that would contribute to better usabil
 ------- 
 
 ## New Mock-up created with Figma
-\[in progress...]
+[Click here](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Foxefb61mHT3rTf3kPHMurQ%2FPlantSitter_redesign%3Fnode-id%3D1%253A21%26viewport%3D528%252C682%252C0.4390885829925537%26scaling%3Dscale-down&chrome=DOCUMENTATION) to view the current state of the redesigned prototype on Figma.
