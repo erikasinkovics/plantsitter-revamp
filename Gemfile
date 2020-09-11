@@ -3,6 +3,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
+# Cloudinary gem
+gem 'cloudinary', '~> 1.16.0'
 # Dotenv
 gem 'dotenv-rails', groups: [:development, :test]
 # Simple form
